@@ -4,13 +4,28 @@
     
         
         <url>
-            <loc>http://example.org/categories/</loc>
+            <loc>http://example.org/</loc>
+            <lastmod>2024-08-12T15:26:11-04:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://example.org/</loc>
+            <loc>http://example.org/posts/</loc>
+            <lastmod>2024-08-12T15:26:11-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://example.org/posts/test-post/</loc>
+            <lastmod>2024-08-12T15:26:11-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://example.org/categories/</loc>
         </url>
         
     

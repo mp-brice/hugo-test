@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo-test-2ko.pages.dev/'
 languageCode = 'en-us'
 title = 'martin test'
 theme = 'hugo-theme-console'

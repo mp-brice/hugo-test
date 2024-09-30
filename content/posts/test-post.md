@@ -8,4 +8,4 @@ draft:
 
 If you're reading this, *it worked*.
 
-![Watercolor painting of Ithaca Falls](/static/ithaca-falls-sketch_2024.09.15.jpeg)
+![Watercolor painting of Ithaca Falls](/images/ithaca-falls-sketch_2024.09.15.jpeg)
